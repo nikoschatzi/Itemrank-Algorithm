@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The repository includes the implementation of Itemrank algorithm, defined in this [paper](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-444.pdf).   
-The project was implemented as part of the High Level Synthesis course in the 9th semester of ECE Democritus University of Thrace supervised by George Dimitrakopoulos.
+The project was implemented as part of the High Level Synthesis course in the 9th semester of ECE Democritus University of Thrace supervised by Associate professor George Dimitrakopoulos.
 
 The code was optimized in order to achieve the best hardware performance possible.  
 This implementation is optimized taking advantage of :
